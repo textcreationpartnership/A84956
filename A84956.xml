@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full and perfect relation of the great plot and terrible conspiracy, of divers lords, knights, citizens, and apprentices, against his Highness the Lord Protector. With a list of the conspirators names; the exact particulars of their bloody engagement, vow, and covenant; and the manner how they were apprehended in the Old-Bayley, and Covent-Garden, and carryed to James, on Tuesday and Wednesday night last. Likewise, their examination and confession before the Right Honourable the Council at White-Hall; and the names of the lords that were taken, with their examinations before his Highness, and the orders and resolution passed thereupon. Together with the taking of a parchment scrol and list of 500 men, and the going of the L. Hastings, and divers others from London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84956</idno>
+            <idno type="STC">Wing F2291</idno>
+            <idno type="STC">Thomason E730_1</idno>
+            <idno type="STC">ESTC R202171</idno>
+            <idno type="EEBO-CITATION">99862564</idno>
+            <idno type="PROQUEST">99862564</idno>
+            <idno type="VID">166839</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84956)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166839)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 112:E730[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full and perfect relation of the great plot and terrible conspiracy, of divers lords, knights, citizens, and apprentices, against his Highness the Lord Protector. With a list of the conspirators names; the exact particulars of their bloody engagement, vow, and covenant; and the manner how they were apprehended in the Old-Bayley, and Covent-Garden, and carryed to James, on Tuesday and Wednesday night last. Likewise, their examination and confession before the Right Honourable the Council at White-Hall; and the names of the lords that were taken, with their examinations before his Highness, and the orders and resolution passed thereupon. Together with the taking of a parchment scrol and list of 500 men, and the going of the L. Hastings, and divers others from London.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for G. Horton,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb: 18"; the 4 in the imprint date has been crossed out and replaced with a "3".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166839:1" rendition="simple:additions"/>
+            <p>A full and perfect RELATION OF The great PLOT AND Terrible Conſpiracy, of divers Lords, Knights, Citizens, and Apprentices, againſt his Highneſs the Lord Protector.</p>
+            <p>With a Liſt of the Conſpirators Names; the exact Particu<g ref="char:EOLhyphen"/>lars of their bloody Engagement, Vow, and Covenant; and the manner how they were apprehended in the Old-Bayley, and Covent-Garden, and carryed to James, on Tueſday and Wedneſday night laſt.</p>
+            <p>Likewiſe, their Examination and Confeſſion before the Right Honourable the Council at White-Hall; and the Names of the LORDS that were taken, with their Examinations before his Highneſs, and the Orders and Reſolution paſſed thereupon.</p>
+            <p>Together with the taking of a ParchmentSc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ol and Liſt of 500 men, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he going of the L. Hastings, and divers othe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s fr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m LONDON</p>
+            <p>
+               <add>feb<g ref="char:punc">▪</g> 18</add> LONDON, Printed for G, HOR<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, 1654.</p>
+            <pb facs="tcp:166839:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:166839:2"/>
+            <head>A full and perfect RELATION OF The great PLOT, and unparalleld Conſpiracy of divers Lords, Gentlemen, and Citizens, againſt his Highneſs the Lord Protector.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">G</seg>Entlemen,</salute>
+            </opener>
+            <p>Had it pleaſed the ſu<g ref="char:EOLhyphen"/>pream Diſpoſer of all things (who changeth times and ſea<g ref="char:EOLhyphen"/>ſons, and doth with the Nati<g ref="char:EOLhyphen"/>ons of the World as he plea<g ref="char:EOLhyphen"/>ſeth) to have united Amity and friendſhip between the Royal party, and the Aſ<g ref="char:EOLhyphen"/>ſertors
+<pb n="4" facs="tcp:166839:3"/> of the preſent Government (which by his Highneſs no means have been left unaſſayed) it would have been matter of great content to the whole Nation: But ſince they ſeem to chuſe Diſtractions rather then Peace, and to involve this Nati<g ref="char:EOLhyphen"/>on into new Diviſions; notwithſtanding the great tender<g ref="char:EOLhyphen"/>neſs of his Highneſs and his honorable Council to avoid every thing that might lead to a Rupture, ſaving the un<g ref="char:EOLhyphen"/>doubted Rights and Dominion of this Nation, and the ju<g ref="char:EOLhyphen"/>ſtice they are reſolved to adminiſter to the People. In con<g ref="char:EOLhyphen"/>ſideration whereof, I am ſorry the Deſign of the Royal Party ſhould be ſo ſecret and cunning, as to wind about the judgment of ſome good men amongſt us, undiſcerned and unobſerved of them, under the pretences of publike ſervice, loyalty, and freedom, rejoycing (though obſcurely) that they can put on our own party to proſecute one another; try<g ref="char:EOLhyphen"/>umphing to themſelves, that they can meke us lop off our own Branches, and act that upon our ſelves in their be<g ref="char:EOLhyphen"/>half, which they themſelves cannot do upon Us: But I cannot but here publiſh to the World, that this was the grand Artifice, and Deſign of the Enemy, both abroad, and at home, within the Common-wealth of <hi>England, Scot<g ref="char:EOLhyphen"/>land,</hi> and <hi>Ireland,</hi> working in ſecret to make Us the ſad and fatal inſtruments of undoing and deſtroving one another, and daſhing in pieces this happy and glorious Govern<g ref="char:EOLhyphen"/>ment, now eſtabliſhed under his Highneſs the Lord Prote<g ref="char:EOLhyphen"/>ctor. But I hope we ſhall diſcern and embrace one ano<g ref="char:EOLhyphen"/>ther, to the deſtruction of their ſtratagem; as already ap<g ref="char:EOLhyphen"/>pears by that happy and timely Diſcovery on Tueſday night laſt at the Ship-Tavern in the Old-Bayley, where a com<g ref="char:EOLhyphen"/>pany
+<pb n="5" facs="tcp:166839:3"/> of Gentlemen being drinking two pair of ſtairs high, and having called for as much Sack as came to eight ſhil<g ref="char:EOLhyphen"/>lings and ſix pence, before<g ref="char:punc">▪</g> they had put a period to their quaffing Glaſſes, in came a company of Officers and Soul<g ref="char:EOLhyphen"/>diers, with their Swords and Piſtols cockt, and went imme<g ref="char:EOLhyphen"/>diatly up ſtaires, where they demanded the Names of the Perſons, their Reſidence, and their preſent buſineſs; which they anſwered: But it being not <hi>ſatisfactory:</hi> the Officers told them, they had an Order from his Highneſs to appre<g ref="char:EOLhyphen"/>hend them, and commit them to cuſtody, during the plea<g ref="char:EOLhyphen"/>ſure of his Highneſs: Whereupon the <hi>Drawers</hi> were all called up, and examined, <hi>VVhether or no, they knew thoſe Gen<g ref="char:EOLhyphen"/>tlemen,</hi> they anſwered, <hi>They knew not one face there, except Mr.</hi> Dutton's. Whereupon they ſecured them all, and con<g ref="char:EOLhyphen"/>ducted them to <hi>Iame<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'s;</hi> upon the <hi>Ordinance</hi> for <hi>Treaſon,</hi> for contriving and conſpiring againſt his Highneſſe the Lord Protector. And withall, took away Mr. <hi>Amps</hi> the Maſter of the houſe; but upon examination, he was ac<g ref="char:EOLhyphen"/>quitted. This party is ſaid to be very numerous, there being at the leaſt five hundred, as we hear, confederated together in an Oath and Covenant, to ſtrike at the very Root of this preſent Government, and to uſe the utmoſt of their en<g ref="char:EOLhyphen"/>deavors to take off his Highneſs. Which is a thing moſt unparallel'd, ſeeing that we are but as the firſt ripe fruit to this flouriſhing Harveſt, wherein the Sickle of Providence will be put into the hands of our preſent Governors, to ac<g ref="char:EOLhyphen"/>compliſh that glorious Prophecie, of Gods cutting down <hi>Monarchs,</hi> his Adverſaries, and making way for reſtoring of his Judges as at firſt, and his Councellors as at the be<g ref="char:EOLhyphen"/>ginning.</p>
+            <div type="part">
+               <pb n="6" facs="tcp:166839:4"/>
+               <list>
+                  <head>A Liſt of the Names of the chief Conſpirators and Actors, taken in the Plot againſt his Highneſs the Lord Protector,</head>
+                  <item>Mr. Dutton of Grayſ-Inn, an eminent Gen<g ref="char:EOLhyphen"/>tleman.</item>
+                  <item>Mr. Amp at the ſhip-Tavern in the Old-bayley; but upon examination releaſed.</item>
+                  <item>Cap. Smith,</item>
+                  <item>M. Jacob,</item>
+                  <item>M. Peterborough,</item>
+                  <item>M. Johnſon,</item>
+                  <item>Mr. Bunch.</item>
+                  <item>Mr. Rolſton,</item>
+                  <item>Mr. Switzer,</item>
+                  <item>A Goldſmiths Prentice in Lumbard-ſtreet,</item>
+               </list>
+               <p>And divers others, who were ſuddenly apprehended at the aforeſaid place in the Old-Bayley, and by his Highneſses command condu<g ref="char:EOLhyphen"/>cted to St. James's: from whence, on Thurſday ltſt they were brought to White-hall, being guar<g ref="char:EOLhyphen"/>ded by a company of ſouldiers; and in the after<g ref="char:EOLhyphen"/>noon
+<pb n="7" facs="tcp:166839:4"/> they were brought before the honourable Council, where they were examined by his High<g ref="char:EOLhyphen"/>neſs, touching their Meetings, and their private Negotiations and Conſultations, for to raiſe inſur<g ref="char:EOLhyphen"/>rections, commotions, and to involve this Nation into another bloody and inteſtine war, &amp;c. But many of them ſtood like ſo many Smithfield Ly<g ref="char:EOLhyphen"/>ons, being not able to ſpeak a word for them<g ref="char:EOLhyphen"/>ſelves. Others, ſpake with great dexterity of ſpirit, yet ſome of them confeſſed their Errors, and laid themſelves ſo low at the feet of his Highneſ: and his honourable Council, that by their confeſſion it is conceived they may find remiſſion; in order whereunto they have already impeached divers, and many brave Birds, bedeckt with dainty fea<g ref="char:EOLhyphen"/>thers, begins now to flutter: Beware ye Citi<g ref="char:EOLhyphen"/>zens! Ay, twas an old Proverb of King James, that he loved the Treaſon, but hated the Traytor. Which ſaying has been verifyed for a century of yeers: But let me not deviate nor center too much upon circumſtances; but re-mind you, that after much time ſpent in examination, his Highneſs, and the Council ordered that they ſhould be remanded back to the place from
+<pb n="8" facs="tcp:166839:5"/> whence they came, till the further pleaſure of his Highneſs were known; and accordingly they were conducted by a ſtrong Guard of ſouldiers.</p>
+               <p>About twelve of the clock on Wedneſday night laſt the Lord of Newport, and the Lord Vaus were both ap<g ref="char:EOLhyphen"/>prehended and committed to cuſtody; but not upon the Ordinance for Treaſon; but upon the Act againſt Duels; having challenged each other: but on Thurſday laſt they were both examined by his Highneſs, and upon engage<g ref="char:EOLhyphen"/>ment, ordered their liberty.</p>
+               <p>The Lord Haſtings of Loughborow is ſaid to b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> gone,</p>
+               <p>With divers other young Lords, Knights, and Citizens, Divers Apprentices were engaged in this horrid, and wick<g ref="char:EOLhyphen"/>ed Deſign, amounting to five or 600, as appeares as re<g ref="char:EOLhyphen"/>ported) by the Scroul taken in the Pockets of thoſe that were apprehended. A little before which time, appeard a STAR in the Eaſt, which Aſtrologers interpret, to be the onely Signal of a cleer Diſcovery of any black or foul Conſpiracy.</p>
+               <figure>
+                  <figDesc>depiction of a star</figDesc>
+               </figure>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
